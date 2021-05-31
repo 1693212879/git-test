@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad4a9d4a-b055-49de-8989-58cee22853e3" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/git/GitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Users/maven3.6" />
+        <option name="userSettingsFile" value="D:\Users\maven3.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1tHdJPDMWYFfQBOvFhHlKH0xWSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.git.GitTest" />
+      <module name="git.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.git.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4a9d4a-b055-49de-8989-58cee22853e3" name="Default Changelist" comment="" />
+      <created>1622429875833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622429875833</updated>
+      <workItem from="1622429884227" duration="1550000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1622431205691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622431205691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="11" key="CommitChangelistDialog2" timestamp="1622431445100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="769" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622431445100" />
+    <state x="812" y="150" key="FileChooserDialogImpl" timestamp="1622430411490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622430411490" />
+    <state x="399" y="62" key="SettingsEditor" timestamp="1622430386385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="62" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622430386385" />
+    <state x="842" y="55" width="621" height="720" key="find.popup" timestamp="1622430302695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="842" y="55" width="621" height="720" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1622430302695" />
+    <state x="983" y="209" key="svn.repositoryBrowser" timestamp="1622430237608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="983" y="209" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1622430237608" />
+  </component>
+</project>
