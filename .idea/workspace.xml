@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad4a9d4a-b055-49de-8989-58cee22853e3" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/git/GitTest.class" afterDir="false" />
+    <list default="true" id="ad4a9d4a-b055-49de-8989-58cee22853e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -74,6 +72,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +113,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
